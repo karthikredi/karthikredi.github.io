@@ -1,0 +1,10 @@
+body {
+    display : flex;
+    background-color: black;
+    color: white;
+}
+a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
